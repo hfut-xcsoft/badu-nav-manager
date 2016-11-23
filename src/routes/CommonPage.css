@@ -1,0 +1,14 @@
+.btns {
+  height: 40px
+}
+.refresh {
+  float: left;
+}
+
+.add {
+  float: right;
+}
+
+.table {
+  clear: both;
+}
